@@ -1,0 +1,11 @@
+C:\wamp\www\university project\university project\backup\buttonhot_bg.png
+C:\wamp\www\university project\university project\backup\menu_bg.png
+C:\wamp\www\university project\university project\backup\menuitemhot_bg.png
+C:\wamp\www\university project\university project\backup\ebab_mbtl58.png
+C:\wamp\www\university project\university project\backup\ebab_mbtl58_d.png
+C:\wamp\www\university project\university project\backup\ebab_mbtl58_d2.png
+C:\wamp\www\university project\university project\backup\ebab_mbtl58_c.png
+C:\wamp\www\university project\university project\backup\ebab_mbtl58_c2.png
+C:\wamp\www\university project\university project\backup\mbjsmbtl58.js
+C:\wamp\www\university project\university project\backup\mbcsmbtl58.css
+C:\wamp\www\university project\university project\backup\filelist_tl58.txt
